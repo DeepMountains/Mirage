@@ -23,8 +23,10 @@ By logging in as an admin user and navigating to the /admin/pages/list page, an 
 1. Log in to the admin backend, visit the "admin/pages/list" page, and click Add.
 2. Set up the route and title.
 <img width="865" alt="image" src="https://github.com/user-attachments/assets/7e83aed8-0af6-4b29-acf3-e8f51551729e">
+
 3. Add a RAW HTML object, write PHP code inside it, and then save it.
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/ff188c78-67d0-41a1-94fb-c3f129359d6d">
 <img width="752" alt="image" src="https://github.com/user-attachments/assets/5a9e1e7e-17fb-4615-aff0-2cf4f91d33c6">
+
 4. Visit the route you created to execute the PHP code.
 <img width="826" alt="image" src="https://github.com/user-attachments/assets/2c19d2fb-7393-41fd-a40d-98f256395bc9">
