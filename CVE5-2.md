@@ -28,5 +28,3 @@ By logging in as an admin user and navigating to the /admin/pages/list page, an 
 <img width="752" alt="image" src="https://github.com/user-attachments/assets/5a9e1e7e-17fb-4615-aff0-2cf4f91d33c6">
 4. Visit the route you created to execute the PHP code.
 <img width="826" alt="image" src="https://github.com/user-attachments/assets/2c19d2fb-7393-41fd-a40d-98f256395bc9">
-
-
