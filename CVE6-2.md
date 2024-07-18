@@ -14,7 +14,7 @@ University Management System
 Download Source Code: https://itsourcecode.com/wp-content/uploads/2022/01/University-Management-System-Project-In-PHP-Source-Code.zip
 
 # Description
-Register and log in with a admin account, and in the student account's backend, visit "/view_cgpa.php". This page can accept two parameters, VR and VN, both of which can lead to SQL injection attacks.
+log in with a admin account, and in the student account's backend, visit "/view_cgpa.php". This page can accept two parameters, VR and VN, both of which can lead to SQL injection attacks.
 
 POC：
 ---
