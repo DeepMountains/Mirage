@@ -19,7 +19,6 @@ Register and log in with a student account。When visiting the /st_update.php?id
 The /st_update.php page does not restrict the files that are uploaded.
 <img width="1397" alt="image" src="https://github.com/user-attachments/assets/3247ff72-4189-4e15-8b35-8dc0aa73b6d0">
 
-POC
 ---
 POST /st_update.php?id=123321 HTTP/1.1
 Host: 192.168.17.24
