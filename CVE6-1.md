@@ -17,7 +17,7 @@ Download Source Code: https://itsourcecode.com/wp-content/uploads/2022/01/Univer
 Register and log in with a student account, and in the student account's backend, visit "/view_single_result.php?vr=123321&vn=mirage," where "vr" refers to the StudentID and "vn" to the student's name. Click the "view Result" button. There is an SQL injection vulnerability in the "seme" field of the POST data packet sent.
 
 POC：
----
+-------------------------------------------------
 Parameter: seme (POST)
     Type: time-based blind
     Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
