@@ -14,7 +14,9 @@ Download Source Code: https://itsourcecode.com/wp-content/uploads/2021/04/Societ
 
 # Description
 
-在/check_student.php页面存在SQL注入漏洞，这是由于student_id参数没有经过任何过滤。
+There is an SQL injection vulnerability on the /check_student.php page.
+<img width="1100" alt="image" src="https://github.com/user-attachments/assets/f6d49d3e-5598-4772-95d5-2e1b305a079f">
+
 
 # Poc
 ```
