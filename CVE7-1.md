@@ -16,6 +16,7 @@ Download Source Code: https://itsourcecode.com/wp-content/uploads/2021/04/Societ
 
 There is an SQL injection vulnerability on the /check_student.php page.
 <img width="1100" alt="image" src="https://github.com/user-attachments/assets/f6d49d3e-5598-4772-95d5-2e1b305a079f">
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/5531ab0d-c8ad-4b69-bb97-582ea0ea3777">
 
 
 # Poc
