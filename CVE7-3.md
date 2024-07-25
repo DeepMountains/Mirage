@@ -16,6 +16,8 @@ Download Source Code: https://itsourcecode.com/wp-content/uploads/2021/04/Societ
 
 After logging into the backend, administrators can query student IDs on the /admin/transaction.php page, but the query interface /admin/check_studid.php has an SQL injection vulnerability.
 <img width="1097" alt="image" src="https://github.com/user-attachments/assets/24f54170-e4a3-4dd7-a6a4-3eeddec7ba3a">
+<img width="1166" alt="image" src="https://github.com/user-attachments/assets/6fc5c36b-cec6-49fc-97b7-8e471276df2b">
+
 
 # Poc
 ```
