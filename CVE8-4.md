@@ -14,8 +14,8 @@ Download Source Code: https://itsourcecode.com/wp-content/uploads/2020/02/altons
 
 # Description
 
-Log in as an administrator user, access the "/admin/member_save.php" page, and pass in the category parameter. Due to lax filtering, this parameter can lead to SQL injection vulnerabilities.
-<img width="1078" alt="image" src="https://github.com/user-attachments/assets/b24aea4e-41f2-49fa-98db-f3530ae978d9">
+Log in as an administrator user, access the "/admin/member_save.php" page. This page can pass in the last and first parameters, both of which can lead to SQL injection vulnerabilities due to lax filtering.
+<img width="965" alt="image" src="https://github.com/user-attachments/assets/99282e55-6259-41aa-8aad-e49cca31aef5">
 
 # Poc
 
