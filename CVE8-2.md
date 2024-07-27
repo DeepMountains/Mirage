@@ -4,7 +4,7 @@ itsourcecode
 
 # Product
 
-Society Management System
+Alton Management System
 
 # version
 
