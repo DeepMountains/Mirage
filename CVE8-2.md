@@ -14,7 +14,7 @@ Download Source Code: https://itsourcecode.com/wp-content/uploads/2020/02/altons
 
 # Description
 
-After logging into the administrator account, use the POST method to request the/retation_status.php page, with the rcode parameter included in the request. Due to the page's lax filtering of rcode parameters, SQL injection vulnerabilities have been created.
+After logging into the administrator account, use the POST method to request the "/retation_status.php" and "/summary.php" page, with the rcode parameter included in the request. Due to the page's lax filtering of rcode parameters, SQL injection vulnerabilities have been created.
 <img width="1091" alt="image" src="https://github.com/user-attachments/assets/d30223c0-3807-4c7a-a916-220cf486891f">
 
 
